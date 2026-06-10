@@ -18,3 +18,4 @@ jobs:
           git config user.email "bot@t"
           git add data.json
           git commit -m "update" && git push || true
+          
